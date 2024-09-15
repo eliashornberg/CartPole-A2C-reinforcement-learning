@@ -47,4 +47,4 @@ To train a new agent or reproduce results:
 
 ## Acknowledgments
 
-This project was completed as part of the EPFL Artificial Neural Networks and Reinforcement Learning course, in collaboration with [@eliashornberg](https://github.com/eliashornberg).
+This project was completed as part of the EPFL Artificial Neural Networks and Reinforcement Learning course, in collaboration with [@alibakly](https://github.com/AliBakly).
